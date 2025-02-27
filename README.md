@@ -1,6 +1,4 @@
 ![welcome to my my profile you nerd](srrf-github-welcome.gif)
----
-## Hi there 👋
 
 <!--
 **srrfrhmn/srrfrhmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
