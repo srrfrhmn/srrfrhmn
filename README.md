@@ -1,3 +1,5 @@
+![welcome to my my profile you nerd](srrf-github-welcome.gif)
+---
 ## Hi there 👋
 
 <!--
